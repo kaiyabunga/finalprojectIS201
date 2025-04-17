@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../HTMLpractice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Final Project"
+	}
+}
